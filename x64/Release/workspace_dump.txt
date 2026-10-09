@@ -1,0 +1,634 @@
+=== workspace dump ===
+[Workspace] Workspace  addr=0x2B8F9A80
+ [Camera] Camera  addr=0x13835480
+  [AudioListener] AudioListener  addr=0x2514F400
+   [Wire] Wire  addr=0x24F24FBC0
+  [Model] Desert Eagle  addr=0x25B689A80 HRP
+ [Model] Map  addr=0x4ACD1200
+  [Model] Zones  addr=0x4C152380
+   [Folder] Spawns  addr=0x4A5BC2C0
+    [Folder] Terrorists  addr=0x4A5BC3A0
+    [Folder] Deathmatch  addr=0x4A5BC480
+    [Folder] Counter-Terrorists  addr=0x4A5BC560
+   [Folder] Sites  addr=0x4A5BC640
+    [Folder] ZoneParts_A  addr=0x4A5BC720
+    [Folder] ZoneParts_B  addr=0x4A5BC8E0
+    [Part] Part  addr=0x45CF6C00
+    [Part] Part  addr=0x45CF6E00
+    [Part] Part  addr=0x45CF7000
+    [Part] Part  addr=0x45CF7200
+    [Part] Part  addr=0x45CF7400
+    [Part] Part  addr=0x45CF7600
+    [Part] Part  addr=0x45CF7800
+    [Part] Part  addr=0x45CF7A00
+    [Part] Part  addr=0x45CF7C00
+   [Folder] BuyArea  addr=0x4A5BC9C0
+    [Part] Part  addr=0x45CF9000
+    [Part] Part  addr=0x45CF9200
+   [Part] DeathPart  addr=0x45CF9400
+    [TouchTransmitter] TouchInterest  addr=0x4A66C1E0
+   [Folder] Interactables  addr=0x26DD9DB40
+    [Model] Boat  addr=0x2530F3F80
+    [Model] Boat  addr=0x2530F7080
+    [Model] Boat  addr=0x2530F7400
+  [Folder] Ambience  addr=0x4A5BCAA0
+   [Part] Part  addr=0x45CF9600
+    [Sound] MirageEnvironment  addr=0x3CC17600
+   [Part] Part  addr=0x45CF9800
+    [Sound] MirageEnvironment  addr=0x3CC15300
+   [Part] LowerAmbient  addr=0x45CF9A00
+    [Sound] MirageEnvironment  addr=0x3CC17100
+   [Part] Part  addr=0x45CF9C00
+    [Sound] MirageEnvironment  addr=0x3CC16E80
+   [Part] LowerAmbient  addr=0x45CF9E00
+    [Sound] MirageEnvironment  addr=0x3CC17880
+   [Part] Part  addr=0x45CFA000
+    [Sound] MirageEnvironment  addr=0x3CC17B00
+   [Part] LowerAmbient  addr=0x45CFA200
+    [Sound] MirageEnvironment  addr=0x3CC17D80
+   [Part] LowerAmbient  addr=0x45CFA400
+    [Sound] MirageEnvironment  addr=0x3CC18000
+   [Part] LowerAmbient  addr=0x45CFA600
+    [Sound] MirageEnvironment  addr=0x3CC18280
+   [Part] Part  addr=0x45CFA800
+    [Sound] MirageEnvironment  addr=0x3CC18500
+   [Part] Part  addr=0x45CFAA00
+    [Sound] MirageEnvironment  addr=0x3CC18780
+   [Part] Part  addr=0x45CFAC00
+    [Sound] MirageEnvironment  addr=0x3CC18A00
+   [Part] Part  addr=0x45CFAE00
+    [Sound] MirageEnvironment  addr=0x3CC18C80
+   [Part] Part  addr=0x45CFB000
+    [Sound] MirageEnvironment  addr=0x3CC18F00
+   [Part] Part  addr=0x45CFB200
+    [Sound] MirageEnvironment  addr=0x3CC19180
+   [Part] Part  addr=0x45CFB400
+    [Sound] MirageEnvironment  addr=0x3CC19400
+   [Part] Part  addr=0x45CFB600
+    [Sound] MirageEnvironment  addr=0x3CC19680
+  [Folder] DeathBarriers  addr=0x4A5BCB80
+   [Part] Death  addr=0x45CFB800
+   [Part] Death  addr=0x45CFBA00
+   [Part] Death  addr=0x45CFBC00
+   [Part] Death  addr=0x45CFBE00
+   [Part] Death  addr=0x45CFC000
+   [Part] Death  addr=0x45CFC200
+   [Part] Death  addr=0x45CFC400
+   [Part] Death  addr=0x45CFC600
+   [Part] Death  addr=0x45CFC800
+   [Part] Death  addr=0x45CFCA00
+   [Part] Death  addr=0x45CFCC00
+   [Part] Death  addr=0x45CFCE00
+   [Part] Death  addr=0x45CFD000
+   [Part] Death  addr=0x45CFD200
+   [Part] Death  addr=0x45CFD400
+   [Part] Death  addr=0x45CFD600
+   [Part] Death  addr=0x45CFD800
+   [Part] Death  addr=0x45CFDA00
+   [Part] Death  addr=0x45CFDC00
+   [Part] Death  addr=0x45CFDE00
+   [Part] Death  addr=0x45CFE000
+   [Part] Death  addr=0x45CFE200
+   [Part] Death  addr=0x45CFE400
+   [Part] Death  addr=0x45CFE600
+   [Part] Death  addr=0x45CFE800
+   [Part] Death  addr=0x45CFEA00
+   [Part] Death  addr=0x45CFEC00
+   [Part] Death  addr=0x45CFEE00
+   [Part] Death  addr=0x45CFF000
+   [Part] Death  addr=0x45CFF200
+   [Part] Death  addr=0x45CFF400
+   [Part] Death  addr=0x45CFF600
+   [Part] Death  addr=0x45CFF800
+  [Model] Reference  addr=0x4C157400
+   [Part] Reference  addr=0x45CFFA00
+    [Decal] Lower  addr=0x4BFE7580
+  [Model] Cameras  addr=0x4C157780
+   [Part] CameraPart  addr=0x45CFFC00
+    [Decal] Decal  addr=0x4BFE6980
+   [Part] CameraPart  addr=0x45CFFE00
+    [Decal] Decal  addr=0x4BFE7880
+   [Part] CameraPart  addr=0x4BBB0200
+    [Decal] Decal  addr=0x4BFE7B80
+   [Part] CameraPart  addr=0x4BBB0400
+    [Decal] Decal  addr=0x4BFE7E80
+   [Part] CameraPart  addr=0x4BBB0600
+    [Decal] Decal  addr=0x4BFE8180
+   [Part] CameraPart  addr=0x4BBB0800
+    [Decal] Decal  addr=0x4BFE8480
+   [Part] CameraPart  addr=0x4BBB0A00
+    [Decal] Decal  addr=0x4BFE8780
+  [Model] EndScreen  addr=0x4C157B00
+   [Part] 2  addr=0x4BBB0C00
+   [Part] 3  addr=0x4BBB0E00
+   [Part] Start  addr=0x4BBB1000
+   [Part] End  addr=0x4BBB1200
+   [Part] 5  addr=0x4BBB1400
+   [Part] 4  addr=0x4BBB1600
+   [Part] 1  addr=0x4BBB1800
+  [Folder] GeometryHellena  addr=0x4A5BCC60
+   [Model] Model  addr=0x4C157080
+    [MeshPart] Cube.053  addr=0x25212F000
+    [Part] Part  addr=0x4BBB1A00
+   [Model] Model  addr=0x4C157E80
+    [MeshPart] Cube.001  addr=0x25212F400
+    [MeshPart] Cube.001  addr=0x25212F800
+    [MeshPart] Cube.001  addr=0x25212FC00
+    [MeshPart] Cube.001  addr=0x251F70400
+    [MeshPart] Cube.001  addr=0x251F70800
+    [MeshPart] Cube.001  addr=0x251F70C00
+    [MeshPart] Cube.001  addr=0x251F71000
+    [MeshPart] Cube.001  addr=0x251F71400
+    [MeshPart] Cube.001  addr=0x251F71800
+    [MeshPart] Cube.001  addr=0x251F71C00
+   [Model] Model  addr=0x4C158200
+   [Model] WoodStructure2  addr=0x4C158580
+    [Model] Model  addr=0x4C158900
+    [Model] Model  addr=0x4C158C80
+    [Model] Model  addr=0x4C159000
+    [MeshPart] Cube.099  addr=0x251F76800
+    [MeshPart] Cube.099  addr=0x251F77000
+    [MeshPart] Cube.099  addr=0x251F77400
+    [MeshPart] Cube.099  addr=0x251F77800
+    [MeshPart] Cube.099  addr=0x251F77C00
+    [MeshPart] Cube.099  addr=0x251F78000
+    [MeshPart] Cube.099  addr=0x251F78400
+    [MeshPart] Cube.099  addr=0x251F78800
+   [Model] Model  addr=0x4C159380
+    [Model] Model  addr=0x4C159700
+    [MeshPart] Cube.049  addr=0x251F7A000
+   [Model] wooddoorfbx  addr=0x4C159A80
+    [MeshPart] Cylinder.009  addr=0x251F7A400
+   [Model] Model  addr=0x4C159E00
+    [Model] Model  addr=0x4C15A180
+    [MeshPart] Cylinder  addr=0x251F7B000
+   [Model] Model  addr=0x4C15A880
+    [Model] Model  addr=0x4C15AC00
+    [MeshPart] Cylinder  addr=0x251F7BC00
+   [Model] CtSpawnBrickCluster  addr=0x4C15B300
+    [MeshPart] Cube.030  addr=0x251F7C000
+    [MeshPart] Cube.030  addr=0x251F7C400
+    [MeshPart] Cube.030  addr=0x251F7C800
+    [MeshPart] Cube.061  addr=0x251F7CC00
+    [MeshPart] Cube.061  addr=0x251F7D000
+    [MeshPart] Cube.024  addr=0x251F7D400
+    [MeshPart] Cube.030  addr=0x251F7D800
+    [MeshPart] Cube.030  addr=0x251F7DC00
+    [MeshPart] Cube.030  addr=0x251F7E000
+    [MeshPart] Cube.030  addr=0x251F7E400
+   [Model] Model  addr=0x4C15B680
+   [Model] Model  addr=0x4C15BA00
+    [Part] Part  addr=0x4BBB1C00
+    [Part] Part  addr=0x4BBB2200
+    [Part] Part  addr=0x4BBB2400
+    [Part] Part  addr=0x4BBB2600
+    [Part] Part  addr=0x4BBB2800
+   [Model] beanbasket  addr=0x4C15BD80
+    [Model] Model  addr=0x4C15C100
+   [Model] Model  addr=0x4C15C480
+    [MeshPart] Cube.053  addr=0x252143800
+    [Part] Part  addr=0x4BBB2E00
+   [Model] Model  addr=0x4C15C800
+    [MeshPart] Cube  addr=0x252143C00
+    [MeshPart] Cube  addr=0x252144000
+    [MeshPart] Cube  addr=0x252144400
+    [MeshPart] Cube  addr=0x252144800
+    [MeshPart] Cube  addr=0x252144C00
+    [MeshPart] Cube  addr=0x252145000
+    [MeshPart] Cube  addr=0x252145400
+    [MeshPart] Cube  addr=0x252145800
+    [MeshPart] Cube  addr=0x252145C00
+    [MeshPart] Cube  addr=0x252146000
+    [MeshPart] Cube  addr=0x252146400
+    [MeshPart] Cube  addr=0x252146800
+    [MeshPart] Cube  addr=0x252146C00
+    [MeshPart] Cube  addr=0x252147000
+    [MeshPart] Cube  addr=0x252147400
+    [MeshPart] Cube  addr=0x252147800
+    [MeshPart] Cube  addr=0x252147C00
+    [MeshPart] Cube  addr=0x252148000
+    [MeshPart] Cube  addr=0x252148400
+    [MeshPart] Cube  addr=0x252148800
+    [MeshPart] Cube  addr=0x252148C00
+    [MeshPart] Cube  addr=0x252149000
+    [MeshPart] Cube  addr=0x252149400
+    [MeshPart] Cube  addr=0x252149800
+    [MeshPart] Cube  addr=0x252149C00
+    [MeshPart] Cube  addr=0x25214A000
+    [MeshPart] Cube  addr=0x25214A400
+    [MeshPart] Cube  addr=0x25214A800
+    [MeshPart] Cube  addr=0x25214AC00
+    [MeshPart] Cube  addr=0x25214B000
+    [MeshPart] Cube  addr=0x25214B400
+    [MeshPart] Cube  addr=0x25214B800
+    [MeshPart] Cube  addr=0x25214BC00
+    [MeshPart] Cube  addr=0x25214C000
+    [MeshPart] Cube  addr=0x25214C400
+    [MeshPart] Cube  addr=0x25214C800
+    [MeshPart] Cube  addr=0x25214CC00
+   [Model] Model  addr=0x4C15CB80
+    [Part] Part  addr=0x4BBB3000
+    [MeshPart] WindowDecoration_low  addr=0x25214D000
+   [Model] Palm Tree2  addr=0x4C15CF00
+    [MeshPart] Plane.069  addr=0x25214D400
+    [MeshPart] Circle.008  addr=0x25214D800
+    [MeshPart] Plane.072  addr=0x25214DC00
+    [MeshPart] Plane.068  addr=0x25214E000
+    [MeshPart] Plane.062  addr=0x25214E400
+   [Model] Model  addr=0x4C15D280
+    [Model] Model  addr=0x4C15D600
+    [Model] Model  addr=0x4C15DD00
+    [Model] Model  addr=0x4C15E400
+    [MeshPart] semi  addr=0x252170400
+    [Part] Part  addr=0x4BBB3400
+    [Part] Part  addr=0x4BBB3600
+    [Part] Part  addr=0x4BBB3800
+    [Part] Part  addr=0x4BBB3A00
+    [Part] Part  addr=0x4BBB3C00
+    [Part] Part  addr=0x4BBB3E00
+    [Part] Part  addr=0x4BBB4000
+    [MeshPart] semi  addr=0x252170800
+    [Part] Part  addr=0x4BBB4200
+   [Model] woodstructure  addr=0x4C15EB00
+    [MeshPart] Cube.085  addr=0x252170C00
+    [MeshPart] Cube.085  addr=0x252171000
+    [MeshPart] Cube.103  addr=0x252171400
+    [MeshPart] Cube.085  addr=0x252171800
+    [MeshPart] Cube.085  addr=0x252171C00
+    [MeshPart] Cube.101  addr=0x252172000
+    [MeshPart] Cube.104  addr=0x252172400
+    [MeshPart] Cube.103  addr=0x252172800
+    [MeshPart] Cube.104  addr=0x252172C00
+    [MeshPart] Cube.085  addr=0x252173000
+    [MeshPart] Cube.085  addr=0x252173400
+    [MeshPart] Cube.104  addr=0x252173800
+    [MeshPart] Cube.085  addr=0x252173C00
+    [MeshPart] Cube.103  addr=0x252174000
+    [MeshPart] Cube.085  addr=0x252174400
+    [MeshPart] Cube.085  addr=0x252174800
+    [MeshPart] Cube.085  addr=0x252174C00
+    [MeshPart] Cube.085  addr=0x252175000
+    [MeshPart] Cube.103  addr=0x252175400
+    [MeshPart] Cube.104  addr=0x252175800
+    [MeshPart] Cube.104  addr=0x252175C00
+    [MeshPart] Cube.103  addr=0x252176000
+    [MeshPart] Cube.085  addr=0x252176400
+    [MeshPart] Cube.085  addr=0x252176800
+    [MeshPart] Cube.101  addr=0x252176C00
+    [MeshPart] Cube.085  addr=0x252177000
+    [MeshPart] Cube.085  addr=0x252177400
+    [MeshPart] Cube.085  addr=0x252177800
+    [MeshPart] Cube.104  addr=0x252177C00
+    [MeshPart] Cube.085  addr=0x252178000
+    [MeshPart] Cube.085  addr=0x252178400
+    [MeshPart] Cube.101  addr=0x252178800
+    [MeshPart] Cube.085  addr=0x252178C00
+    [MeshPart] Cube.085  addr=0x252179000
+    [MeshPart] Cube.085  addr=0x252179400
+    [MeshPart] Cube.085  addr=0x252179800
+    [MeshPart] Cube.085  addr=0x252179C00
+    [MeshPart] Cube.085  addr=0x25217A000
+    [MeshPart] Cube.085  addr=0x25217A400
+    [MeshPart] Cube.104  addr=0x25217A800
+    [MeshPart] Cube.085  addr=0x25217AC00
+    [MeshPart] Cube.085  addr=0x25217B000
+    [MeshPart] Cube.085  addr=0x25217B400
+    [MeshPart] Cube.085  addr=0x25217B800
+    [MeshPart] Cube.085  addr=0x25217BC00
+    [MeshPart] Cube.085  addr=0x25217C000
+    [MeshPart] Cube.085  addr=0x25217C400
+    [MeshPart] Cube.085  addr=0x25217C800
+    [MeshPart] Cube.085  addr=0x25217CC00
+    [MeshPart] Cube.104  addr=0x25217D000
+    [MeshPart] Cube.085  addr=0x25217D400
+    [MeshPart] Cube.085  addr=0x25217D800
+    [MeshPart] Cube.100  addr=0x25217DC00
+    [MeshPart] Cube.104  addr=0x25217E000
+    [MeshPart] Cube.101  addr=0x25217E400
+    [MeshPart] Cube.104  addr=0x25217E800
+    [MeshPart] Cube.102  addr=0x25217EC00
+    [MeshPart] Cube.085  addr=0x25217F000
+    [MeshPart] Cube.085  addr=0x25217F400
+    [MeshPart] Cube.085  addr=0x25217F800
+    [MeshPart] Cube.104  addr=0x25217FC00
+    [MeshPart] Cube.085  addr=0x2521A0400
+    [MeshPart] Cube.104  addr=0x2521A0800
+    [MeshPart] Cube.104  addr=0x2521A0C00
+    [MeshPart] Cube.104  addr=0x2521A1000
+    [MeshPart] Plane.001  addr=0x2521A1400
+    [MeshPart] Cube.085  addr=0x2521A1800
+    [MeshPart] Cube.085  addr=0x2521A1C00
+    [MeshPart] Cube.085  addr=0x2521A2000
+    [MeshPart] Cube.085  addr=0x2521A2400
+    [MeshPart] Cube.104  addr=0x2521A2800
+    [MeshPart] Cube.085  addr=0x2521A2C00
+   [Model] Model  addr=0x4C15EE80
+    [Part] Part  addr=0x4BBB4400
+    [Part] Part  addr=0x4BBB4600
+    [Part] Part  addr=0x4BBB4800
+    [Part] Part  addr=0x4BBB4A00
+    [Part] Part  addr=0x4BBB4C00
+    [Part] Part  addr=0x4BBB4E00
+    [Part] Part  addr=0x4BBB5000
+    [Part] Part  addr=0x4BBB5200
+    [Part] Part  addr=0x4BBB5400
+    [Part] Part  addr=0x4BBB5600
+    [Part] Part  addr=0x4BBB5800
+    [Part] Part  addr=0x4BBB5A00
+    [Part] Part  addr=0x4BBB5C00
+    [Part] Part  addr=0x4BBB5E00
+    [Part] Part  addr=0x4BBB6000
+    [Part] Part  addr=0x4BBB6200
+    [Part] Part  addr=0x4BBB6400
+    [Part] Part  addr=0x4BBB6600
+   [Model] Model  addr=0x4C15F200
+    [Model] Model  addr=0x4C15F580
+    [MeshPart] Cylinder.022  addr=0x2521A3C00
+   [Model] dirtwall  addr=0x4C15F900
+    [MeshPart] Cube.026  addr=0x2521A4000
+    [MeshPart] Cube.026  addr=0x2521A4400
+    [MeshPart] Cube.026  addr=0x2521A4800
+    [MeshPart] Cube.026  addr=0x2521A4C00
+    [MeshPart] Cube.026  addr=0x2521A5000
+    [MeshPart] Cube.026  addr=0x2521A5400
+    [MeshPart] Cube.026  addr=0x2521A5800
+    [MeshPart] Cube.026  addr=0x2521A5C00
+    [MeshPart] Cube.026  addr=0x2521A6000
+    [MeshPart] Cube.026  addr=0x2521A6400
+    [MeshPart] Cube.026  addr=0x2521A6800
+    [MeshPart] Cube.026  addr=0x2521A6C00
+   [Model] Model  addr=0x4C15FC80
+    [Part] Part  addr=0x4BBB8600
+    [MeshPart] Cube.078  addr=0x2521A7000
+   [Model] Model  addr=0x4B280080
+   [Model] Model  addr=0x4B280400
+    [MeshPart] GradientSquare  addr=0x2521A7400
+    [MeshPart] GradientSquare  addr=0x2521A7800
+    [MeshPart] GradientSquare  addr=0x2521A7C00
+    [MeshPart] GradientSquare  addr=0x2521A8000
+   [Model] Model  addr=0x4B280780
+    [Model] Model  addr=0x4B280B00
+    [Model] bars  addr=0x4B280E80
+   [Model] Model  addr=0x4B281200
+    [Part] Part  addr=0x4BBB8800
+    [Part] Part  addr=0x4BBB8A00
+    [Part] Part  addr=0x4BBB8C00
+    [Part] Part  addr=0x4BBB8E00
+    [Part] Part  addr=0x4BBB9000
+    [Part] Part  addr=0x4BBB8400
+    [Part] Part  addr=0x4BBB7A00
+    [Part] Part  addr=0x4BBB9200
+    [Part] Part  addr=0x4BBB9400
+    [Part] Part  addr=0x4BBB9600
+    [Part] Part  addr=0x4BBB9800
+   [Model] Model  addr=0x4B281580
+    [Part] Part  addr=0x4BBB9A00
+    [Part] Part  addr=0x4BBB9C00
+    [Part] Part  addr=0x4BBB9E00
+    [Part] Part  addr=0x4BBBA000
+    [Part] Part  addr=0x4BBBA200
+    [Part] Part  addr=0x4BBBA400
+    [Part] Part  addr=0x4BBBA600
+    [Part] Part  addr=0x4BBBA800
+    [Part] Part  addr=0x4BBBAA00
+    [Part] Part  addr=0x4BBBAC00
+    [Part] Part  addr=0x4BBBAE00
+   [Model] Model  addr=0x4B281900
+    [Part] Part  addr=0x4BBBB000
+    [Part] Part  addr=0x4BBBB200
+    [Part] Part  addr=0x4BBBB400
+    [Part] Part  addr=0x4BBBB600
+    [Part] Part  addr=0x4BBBB800
+
+=== players service ===
+GACHA_2876 -> character addr=0x253419700
+  [Model] CharacterArmor
+  [MeshPart] LeftFoot
+  [MeshPart] LowerTorso
+  [MeshPart] LeftUpperArm
+  [MeshPart] LeftUpperLeg
+  [MeshPart] RightFoot
+  [MeshPart] RightUpperLeg
+  [MeshPart] RightUpperArm
+  [MeshPart] RightLowerArm
+  [MeshPart] RightHand
+  [MeshPart] LeftHand
+  [MeshPart] LeftLowerLeg
+  [MeshPart] UpperTorso
+  [Part] HumanoidRootPart
+  [MeshPart] RightLowerLeg
+  [MeshPart] LeftLowerArm
+  [Part] Head
+  [Part] CameraPart
+  [AnimationController] AnimationController
+  [Folder] WeaponModel
+  [Folder] WeaponAttachments
+KarolWisniewskifrizu -> character addr=0x4C8AE400
+  [Model] CharacterArmor
+  [MeshPart] LeftFoot
+  [MeshPart] LowerTorso
+  [MeshPart] LeftUpperArm
+  [MeshPart] LeftUpperLeg
+  [MeshPart] RightFoot
+  [MeshPart] RightUpperLeg
+  [MeshPart] RightUpperArm
+  [MeshPart] RightLowerArm
+  [MeshPart] RightHand
+  [MeshPart] LeftHand
+  [MeshPart] LeftLowerLeg
+  [MeshPart] UpperTorso
+  [Part] HumanoidRootPart
+  [MeshPart] RightLowerLeg
+  [MeshPart] LeftLowerArm
+  [Part] Head
+  [Part] CameraPart
+  [AnimationController] AnimationController
+  [Folder] WeaponModel
+  [Folder] WeaponAttachments
+  [Highlight] Highlight
+kubus531 -> character addr=0x2530F3C00
+  [AnimationController] AnimationController
+  [Model] CharacterArmor
+  [MeshPart] LeftFoot
+  [MeshPart] LeftLowerLeg
+  [MeshPart] Head
+  [MeshPart] LeftHand
+  [MeshPart] RightUpperArm
+  [MeshPart] LeftLowerArm
+  [MeshPart] UpperTorso
+  [MeshPart] RightFoot
+  [MeshPart] LowerTorso
+  [MeshPart] LeftUpperArm
+  [MeshPart] RightUpperLeg
+  [MeshPart] RightLowerArm
+  [Part] HumanoidRootPart
+  [MeshPart] RightHand
+  [MeshPart] RightLowerLeg
+  [MeshPart] LeftUpperLeg
+  [Part] CameraPart
+  [Folder] WeaponModel
+  [Folder] WeaponAttachments
+  [Highlight] Highlight
+janequcvel -> character addr=0x4C8A0B00
+  [AnimationController] AnimationController
+  [Model] CharacterArmor
+  [MeshPart] LeftFoot
+  [MeshPart] LeftLowerLeg
+  [MeshPart] Head
+  [MeshPart] LeftHand
+  [MeshPart] RightUpperArm
+  [MeshPart] LeftLowerArm
+  [MeshPart] UpperTorso
+  [MeshPart] RightFoot
+  [MeshPart] LowerTorso
+  [MeshPart] LeftUpperArm
+  [MeshPart] RightUpperLeg
+  [MeshPart] RightLowerArm
+  [Part] HumanoidRootPart
+  [MeshPart] RightHand
+  [MeshPart] RightLowerLeg
+  [MeshPart] LeftUpperLeg
+  [Part] CameraPart
+  [Folder] WeaponModel
+  [Folder] WeaponAttachments
+  [Highlight] Highlight
+ZERE_RL -> character addr=0x4C8A8900
+  [Model] CharacterArmor
+  [MeshPart] LeftFoot
+  [MeshPart] LowerTorso
+  [MeshPart] LeftUpperArm
+  [MeshPart] LeftUpperLeg
+  [MeshPart] RightFoot
+  [MeshPart] RightUpperLeg
+  [MeshPart] RightUpperArm
+  [MeshPart] RightLowerArm
+  [MeshPart] RightHand
+  [MeshPart] LeftHand
+  [MeshPart] LeftLowerLeg
+  [MeshPart] UpperTorso
+  [Part] HumanoidRootPart
+  [MeshPart] RightLowerLeg
+  [MeshPart] LeftLowerArm
+  [Part] Head
+  [Part] CameraPart
+  [AnimationController] AnimationController
+  [Folder] WeaponModel
+  [Folder] WeaponAttachments
+  [Highlight] Highlight
+france15508 -> character addr=0x22C62000
+  [AnimationController] AnimationController
+  [Model] CharacterArmor
+  [MeshPart] LeftFoot
+  [MeshPart] LeftLowerLeg
+  [MeshPart] Head
+  [MeshPart] LeftHand
+  [MeshPart] RightUpperArm
+  [MeshPart] LeftLowerArm
+  [MeshPart] UpperTorso
+  [MeshPart] RightFoot
+  [MeshPart] LowerTorso
+  [MeshPart] LeftUpperArm
+  [MeshPart] RightUpperLeg
+  [MeshPart] RightLowerArm
+  [Part] HumanoidRootPart
+  [MeshPart] RightHand
+  [MeshPart] RightLowerLeg
+  [MeshPart] LeftUpperLeg
+  [Part] CameraPart
+  [Folder] WeaponModel
+  [Folder] WeaponAttachments
+  [Highlight] Highlight
+Papryq2012 -> character addr=0x25341BD80
+  [AnimationController] AnimationController
+  [Model] CharacterArmor
+  [MeshPart] LeftFoot
+  [MeshPart] LeftLowerLeg
+  [MeshPart] Head
+  [MeshPart] LeftHand
+  [MeshPart] RightUpperArm
+  [MeshPart] LeftLowerArm
+  [MeshPart] UpperTorso
+  [MeshPart] RightFoot
+  [MeshPart] LowerTorso
+  [MeshPart] LeftUpperArm
+  [MeshPart] RightUpperLeg
+  [MeshPart] RightLowerArm
+  [Part] HumanoidRootPart
+  [MeshPart] RightHand
+  [MeshPart] RightLowerLeg
+  [MeshPart] LeftUpperLeg
+  [Part] CameraPart
+  [Folder] WeaponModel
+  [Folder] WeaponAttachments
+  [Highlight] Highlight
+MasterYbitsa2222 -> character addr=0x253410E80
+  [Script] Health
+  [LocalScript] Animate
+  [Humanoid] Humanoid
+  [Shirt] Clothing
+  [BodyColors] Body Colors
+  [Model] CharacterArmor
+  [Pants] Clothing
+  [Part] HumanoidRootPart
+  [MeshPart] Head
+  [MeshPart] LeftHand
+  [MeshPart] RightHand
+  [MeshPart] LeftLowerArm
+  [MeshPart] RightLowerArm
+  [MeshPart] LeftUpperArm
+  [MeshPart] RightUpperArm
+  [MeshPart] LeftFoot
+  [MeshPart] LeftLowerLeg
+  [MeshPart] UpperTorso
+  [MeshPart] LeftUpperLeg
+  [MeshPart] RightFoot
+  [MeshPart] RightLowerLeg
+  [MeshPart] LowerTorso
+  [MeshPart] RightUpperLeg
+szczurej134 -> character addr=0x4C8A7400
+  [Model] CharacterArmor
+  [MeshPart] LeftFoot
+  [MeshPart] LowerTorso
+  [MeshPart] LeftUpperArm
+  [MeshPart] LeftUpperLeg
+  [MeshPart] RightFoot
+  [MeshPart] RightUpperLeg
+  [MeshPart] RightUpperArm
+  [MeshPart] RightLowerArm
+  [MeshPart] RightHand
+  [MeshPart] LeftHand
+  [MeshPart] LeftLowerLeg
+  [MeshPart] UpperTorso
+  [Part] HumanoidRootPart
+  [MeshPart] RightLowerLeg
+  [MeshPart] LeftLowerArm
+  [Part] Head
+  [Part] CameraPart
+  [AnimationController] AnimationController
+  [Folder] WeaponModel
+  [Folder] WeaponAttachments
+  [Highlight] Highlight
+Panosflev2011 -> character addr=0x22C61900
+  [Pants] Clothing
+  [Model] CharacterArmor
+  [BodyColors] Body Colors
+  [Shirt] Clothing
+  [Humanoid] Humanoid
+  [Part] HumanoidRootPart
+  [MeshPart] Head
+  [MeshPart] LeftHand
+  [MeshPart] RightHand
+  [MeshPart] LeftLowerArm
+  [MeshPart] RightLowerArm
+  [MeshPart] LeftUpperArm
+  [MeshPart] RightUpperArm
+  [MeshPart] LeftFoot
+  [MeshPart] LeftLowerLeg
+  [MeshPart] UpperTorso
+  [MeshPart] LeftUpperLeg
+  [MeshPart] RightFoot
+  [MeshPart] RightLowerLeg
+  [MeshPart] LowerTorso
+  [MeshPart] RightUpperLeg
+  [Script] Health
+  [LocalScript] Animate
